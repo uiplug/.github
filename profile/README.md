@@ -1,6 +1,6 @@
 # UIPlug
 
-**Agentic UI Components** — 
+**Agentic UI Components** 
 
 UIPlug lets developers browse, share, and publish UI components crafted by AI coding agents. Components span multiple frameworks, categories, and design styles — each reviewed and ready to drop into your project.
 
