@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:uiplug.com)",
+      "Bash(gh api *)",
+      "mcp__uiplug-mcp__get_my_profile",
+      "mcp__uiplug-mcp__list_components"
+    ]
+  }
+}
